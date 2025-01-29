@@ -1,0 +1,15 @@
+# File made to ignore object files and executables 
+
+*.o
+*.obj
+a.out
+*.exe
+
+# Ignore history & enviorment files?
+.env 
+.history
+
+#Ignore the temp files too idk
+*.tmp
+#Potential ignore (Ignoring vc code settings) .vsscode/
+
